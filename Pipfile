@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.doubanio.com/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+lxml = "*"
+selenium = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
